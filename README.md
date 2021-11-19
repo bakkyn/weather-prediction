@@ -1,1 +1,1 @@
-# weather-prediction
+# Weather Prediction
